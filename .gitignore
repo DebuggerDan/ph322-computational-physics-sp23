@@ -8,3 +8,4 @@ project/data
 midterm/
 project/examples/*
 project/examples
+project/test.py
