@@ -9,3 +9,14 @@ midterm/
 project/examples/*
 project/examples
 project/test.py
+ph322-project/ph322project_dan_jang.ipynb
+ph322-project/data/demo_data.csv
+ph322-project/data/demo_data2.csv
+ph322-project/data/Sample_Data.zip
+ph322-project/photos/OpenBCIExampleforPH322Project.png
+ph322-project/photos/OpenBCIHeadsetforPH322Project.webp
+ph322-project/photos/PH322-EEG-Project-Code-Segment-2-Graph.png
+ph322-project/photos/PH322-EEG-Project-Code-Segment-2-Plot.png
+ph322-project/photos/standalone-1-demo.png
+ph322-project/standalones/brainflow-boilerplate.py
+ph322-project/standalones/standalone-1.py
